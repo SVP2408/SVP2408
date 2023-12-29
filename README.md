@@ -18,8 +18,8 @@ I'm a passionate Full Stack Developer with a strong background in backend techno
 - **DevOps:** Experience with deployment and continuous integration.
 
 ## Projects
-- [Project Name 1](link): A brief description of the project and your role.
-- [Project Name 2](link): Another example showcasing your skills.
+- //[Project Name 1](link): A brief description of the project and your role.
+- //[Project Name 2](link): Another example showcasing your skills.
 
 ## Education
 - [Your University] - Bachelor's in Computer Science
