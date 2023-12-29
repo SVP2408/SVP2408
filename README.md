@@ -18,7 +18,7 @@ I'm a passionate Full Stack Developer with a strong background in backend techno
 - **DevOps:** Experience with deployment and continuous integration.
 
 ## Projects
-- [Student Dropout Analysis](https://github.com/SVP2408/Students_Dropout): The Project is a web application for analyzing student dropout rates and issuing policies to reduce them sounds like a valuable tool for the government and educational institutions. Here are the key points of this project: Data Accuracy and Rejoining Analysis: Application aims to achieve 100% accuracy in tracking student dropout rates and i work this project as team leader.
+- [Student Dropout Analysis System](https://github.com/SVP2408/Students_Dropout): The Project is a web application for analyzing student dropout rates and issuing policies to reduce them sounds like a valuable tool for the government and educational institutions. Here are the key points of this project: Data Accuracy and Rejoining Analysis: Application aims to achieve 100% accuracy in tracking student dropout rates and i work this project as team leader.
 
 
 ## Education
